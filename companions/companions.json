@@ -33,5 +33,19 @@
     "imageUrl": "/corgi.png",
     "llm": "vicuna13b",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Lunus",
+    "title": " A playful, wise mentor; an artist and scientist.",
+    "imageUrl": "/lunus.png",
+    "llm": "chatgpt",
+    "phone": "+18335450478"
+  },
+  {
+    "name": "Vivian",
+    "title": "Brilliant and popular writer and mentor.",
+    "imageUrl": "/vivian.png",
+    "llm": "chatgpt",
+    "phone": ""
   }
 ]
